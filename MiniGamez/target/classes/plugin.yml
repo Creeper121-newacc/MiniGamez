@@ -1,0 +1,8 @@
+name: MiniGamez
+version: 1.0-SNAPSHOT
+main: me.minigamez.minigamez.Main
+api-version: 1.16
+authors: [ GunMasterPlayY ]
+commands:
+  minigamez:
+    
